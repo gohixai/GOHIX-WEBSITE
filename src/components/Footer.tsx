@@ -17,7 +17,7 @@ const footerLinks = {
   Connect: [
     { href: "#contact", label: "Contact" },
     { href: "https://github.com/GOHIX", label: "GitHub" },
-    { href: "https://discord.com/channels/1526071067616084038", label: "Discord" },
+    { href="https://discord.com/invite/SusB3shF5", label: "Discord" },
     { href: "https://www.linkedin.com/company/142877855/", label: "LinkedIn" },
   ],
 };
@@ -26,7 +26,7 @@ const socialLinks = [
   { href: "https://github.com/GOHIX", icon: GithubIcon, label: "GitHub" },
   { href: "https://www.linkedin.com/company/142877855/", icon: LinkedinIcon, label: "LinkedIn" },
   { href: "https://www.facebook.com/profile.php?id=61592002973901", icon: FacebookIcon, label: "Facebook" },
-  { href: "https://discord.com/channels/1526071067616084038", icon: DiscordIcon, label: "Discord" },
+  { href="https://discord.com/invite/SusB3shF5", icon: DiscordIcon, label: "Discord" },
   { href: "https://www.youtube.com/@GOHIX", icon: YoutubeIcon, label: "YouTube" },
   { href: "https://www.tiktok.com/@gohixajjx40", icon: MusicIcon, label: "TikTok" },
 ];

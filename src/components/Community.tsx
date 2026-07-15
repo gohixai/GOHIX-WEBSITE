@@ -86,7 +86,7 @@ export default function Community() {
           className="mt-16 flex flex-col sm:flex-row items-center justify-center gap-4"
         >
           <a
-            href="https://discord.com/channels/1526071067616084038/1526071069851783282"
+            href="https://discord.com/invite/SusB3shF5"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2.5 px-8 py-4 text-base font-semibold text-white bg-[#5865F2] rounded-2xl hover:bg-[#4752C4] transition-all duration-300 shadow-lg shadow-[#5865F2]/25"
